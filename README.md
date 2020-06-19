@@ -39,26 +39,26 @@ It can simply be copied and run in notebook before saving a Pandas dataframe as 
 
 ## Example:
 
-First import all packages needed.
+#### First import all packages needed.
 
 ```markdown
 import numpy as np
 import pandas as pd
 from igorwriter import IgorWave5 
 ```
-First we create a DataFrame with two columns.
+#### Then we create a DataFrame with two columns.
 ```markdown
 data = {'col1': [1, 2, 3, 4, 5, 6], 'col2': [3, 4, 5, 6, 7, 8]}
 MyDataFrame = pd.DataFrame(data)
 ```
 
-To save it as one .itx file that contain both columns:
+#### To save it as one .itx file that contain both columns:
 ```markdown
 save_pd(MyDataFrame, 'Sample1')
 ```
 That when clicked on opens Igor and loads waves: Sample1_col1, Sample1_col2
 
-To save two .ibw files:
+#### To save two .ibw files:
 
 Sample1_col1.ibw and Sample1_col2.ibw
 ```markdown
