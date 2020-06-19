@@ -50,8 +50,8 @@ First we create a DataFrame with two columns.
 ```markdown
 data = {'col1': [1, 2, 3, 4, 5, 6], 'col2': [3, 4, 5, 6, 7, 8]}
 MyDataFrame = pd.DataFrame(data)
-MyDataFrame.head()
 ```
+
 To save it as one .itx file that contain both columns:
 ```markdown
 save_pd(MyDataFrame, 'Sample1')
