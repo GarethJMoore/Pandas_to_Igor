@@ -17,7 +17,10 @@ The package allows easy saving from Numpy arrays to Igor Waves.
 Read literature in GitHub repository...
 
 An __*.ibw*__ file is an Igor Wave (only one wave).
-An __*.itx*__ file is a collection of Igor Waves, I suggest using __*.itx*__ for saving full DataFrames
+
+An __*.itx*__ file is a collection of Igor Waves.
+
+I suggest using __*.itx*__ for saving full DataFrames
 
 ## Saving Pandas DataFrames
 
