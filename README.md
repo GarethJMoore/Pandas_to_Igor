@@ -60,7 +60,7 @@ That when clicked on opens Igor and loads waves: Sample1_col1, Sample1_col2
 
 To save two .ibw files:
 
-Sample1_col1.ibw and *Sample1_col2.ibw
+Sample1_col1.ibw and Sample1_col2.ibw
 ```markdown
 save_pd(MyDataFrame, 'Sample1', as_ibw = True)
 ```
