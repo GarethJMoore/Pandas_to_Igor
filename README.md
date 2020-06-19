@@ -30,6 +30,10 @@ Extra function if you wane to save Pandas DataFrame as Igor Waves:
 - name:   Name that you want to give the file and prefix of each wave name (default = None)
 - as_ibw: If true the files are saved as_ibw if false files are saved as .itx (default = False)
 
+The function can be found at: https://github.com/GarethJMoore/Panads_to_Igor/blob/master/pandas2Igor.py
+
+It can simply be copied and run in notebook before saving a Pandas dataframe as Igor file.
+
 ## Example:
 
 First import all packages needed.
