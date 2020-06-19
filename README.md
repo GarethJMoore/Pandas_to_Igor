@@ -2,9 +2,9 @@
 
 This include a  package that is designed to convert Numpy arrays into Igor Waves:
 
-#### Package:	igorwriter
+**Package:**	igorwriter
 
-#### GitHub:		https://github.com/t-onoz/igorwriter
+**GitHub:**		https://github.com/t-onoz/igorwriter
 
 ## Installation
 
