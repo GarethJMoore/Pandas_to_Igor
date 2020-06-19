@@ -26,10 +26,9 @@ Extra function if you wane to save Pandas DataFrame as Igor Waves:
 **Function:**	&emsp;save_pd( df [ , name = None , as_ibw = False] )
 
 **Args:**
-
-  - df:	 Name of pd.DataFrame to be saved 
-	- name:   Name that you want to give the file and prefix of each wave name (default = None)
-	- as_ibw: If true the files are saved as_ibw if false files are saved as .itx (default = False)
+- df:	 Name of pd.DataFrame to be saved 
+- name:   Name that you want to give the file and prefix of each wave name (default = None)
+- as_ibw: If true the files are saved as_ibw if false files are saved as .itx (default = False)
 
 ## Example:
 
