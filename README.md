@@ -46,6 +46,7 @@ import numpy as np
 import pandas as pd
 from igorwriter import IgorWave5 
 ```
+The save_pd() function needs to be copied into the notebook and exicuted in order to make it available. 
 #### Then we create a DataFrame with two columns.
 ```markdown
 data = {'col1': [1, 2, 3, 4, 5, 6], 'col2': [3, 4, 5, 6, 7, 8]}
