@@ -35,7 +35,7 @@ Extra function if you wane to save Pandas DataFrame as Igor Waves:
 
 The function can be found at: [pandas2Igor](https://github.com/GarethJMoore/Panads_to_Igor/blob/master/pandas2Igor.py)
 
-It can simply be copied and run in notebook before saving a Pandas dataframe as Igor file.
+It can simply be copied and run in a notebook before saving a Pandas dataframe as Igor file.
 
 ## Example:
 
