@@ -1,4 +1,4 @@
-# Numpy arrays and Pandas DataFrames to Igor Waves
+# Numpy arrays and Pandas DataFrames to Igor Pro Waves
 
 This include a  package that is designed to convert Numpy arrays into Igor Waves:
 
