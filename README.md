@@ -8,7 +8,7 @@ This include a  package that is designed to convert Numpy arrays into Igor Waves
 
 ## Installation
 
-(Just run the next cell if you are on Mac in Jupyter Notebook)
+Just run the next cell if you are on Mac in Jupyter Notebook
 
 ```markdown
 %pip install igorwriter
